@@ -11,6 +11,8 @@ import Footer from "./components/Footer/Footer"
 
 
 function App(){
+
+  //main code
   return (
     <div>
       <Navbar/>
